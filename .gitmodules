@@ -7,3 +7,6 @@
 [submodule "P4"]
 	path = P4
 	url = git@github.com:achicyr/OC__frontend__P4.git
+[submodule "STUDENTS"]
+	path = STUDENTS
+	url = git@github.com:achicyr/OC___STUDENTS-frontend.git
