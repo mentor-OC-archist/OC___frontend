@@ -1,0 +1,9 @@
+[submodule "P3"]
+	path = P3
+	url = git@github.com:achicyr/OC__frontend__P3.git
+[submodule "P2"]
+	path = P2
+	url = git@github.com:achicyr/OC__frontend__P2.git
+[submodule "P4"]
+	path = P4
+	url = git@github.com:achicyr/OC__frontend__P4.git
