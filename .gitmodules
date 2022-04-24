@@ -16,3 +16,6 @@
 [submodule "P5"]
 	path = P5
 	url = git@github.com:achicyr/OC__frontend__P5.git
+[submodule "WORKOUTs"]
+	path = WORKOUTs
+	url = git@github.com:webdev-archist/WORKOUTS___master.git
