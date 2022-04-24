@@ -10,3 +10,6 @@
 [submodule "STUDENTS"]
 	path = STUDENTS
 	url = git@github.com:achicyr/OC___STUDENTS-frontend.git
+[submodule "MOOCs"]
+	path = MOOCs
+	url = git@github.com:achicyr/MOOC___webdev.git
