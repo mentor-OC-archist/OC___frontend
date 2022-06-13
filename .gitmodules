@@ -18,7 +18,13 @@
 	url = git@github.com:achicyr/OC__frontend__P5.git
 [submodule "WORKOUTs"]
 	path = WORKOUTs
-	url = git@github.com:webdev-archist/WORKOUTS___master.git
+	url = git@github.com:achicyr/OC___WORKOUTS___master.git
 [submodule "FullStack"]
 	path = FullStack
 	url = git@github.com:achicyr/OC___Fullstack.git
+[submodule "P7"]
+	path = P7
+	url = git@github.com:achicyr/OC___frontend___P7.git
+[submodule "P6"]
+	path = P6
+	url = git@github.com:achicyr/OC___frontend___P6.git
