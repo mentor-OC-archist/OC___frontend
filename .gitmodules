@@ -1,21 +1,21 @@
 [submodule "P3"]
 	path = P3
-	url = git@github.com:achicyr/OC__frontend__P3.git
+	url = git@github.com:mentor-OC-archist/OC__frontend__P3.git
 [submodule "P2"]
 	path = P2
-	url = git@github.com:achicyr/OC__frontend__P2.git
+	url = git@github.com:mentor-OC-archist/OC__frontend__P2.git
 [submodule "P4"]
 	path = P4
-	url = git@github.com:achicyr/OC__frontend__P4.git
+	url = git@github.com:mentor-OC-archist/OC__frontend__P4.git
 [submodule "STUDENTS"]
 	path = STUDENTS
-	url = git@github.com:achicyr/OC___STUDENTS-frontend.git
+	url = git@github.com:mentor-OC-archist/OC___STUDENTS-frontend.git
 [submodule "MOOCs"]
 	path = MOOCs
-	url = git@github.com:achicyr/MOOC___webdev.git
+	url = git@github.com:mentor-OC-archist/MOOC___webdev.git
 [submodule "P5"]
 	path = P5
-	url = git@github.com:achicyr/OC__frontend__P5.git
+	url = git@github.com:mentor-OC-archist/OC__frontend__P5.git
 [submodule "WORKOUTs"]
 	path = WORKOUTs
 	url = git@github.com:achicyr/OC___WORKOUTS___master.git
@@ -24,7 +24,10 @@
 	url = git@github.com:achicyr/OC___Fullstack.git
 [submodule "P7"]
 	path = P7
-	url = git@github.com:achicyr/OC___frontend___P7.git
+	url = git@github.com:mentor-OC-archist/OC___frontend___P7.git
 [submodule "P6"]
 	path = P6
-	url = git@github.com:achicyr/OC___frontend___P6.git
+	url = git@github.com:mentor-OC-archist/OC___frontend___P6.git
+[submodule "P1"]
+	path = P1
+	url = https://github.com/mentor-OC-archist/-OC__frontend__P1
