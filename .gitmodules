@@ -28,3 +28,6 @@
 [submodule "P1"]
 	path = P1
 	url = https://github.com/mentor-OC-archist/-OC__frontend__P1
+[submodule "P6"]
+	path = P6
+	url = git@github.com:mentor-OC-archist/OC___frontend___P6.git
