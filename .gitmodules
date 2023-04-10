@@ -1,6 +1,6 @@
-[submodule "P3"]
-	path = P3
-	url = git@github.com:mentor-OC-archist/OC__frontend__P3.git
+[submodule "P3___old_before_23janv"]
+	path = _/P3___old_before_23janv
+	url = git@github.com:mentor-OC-archist/OC__frontend__P3___old_before_23janv.git
 [submodule "P2"]
 	path = P2
 	url = git@github.com:mentor-OC-archist/OC__frontend__P2.git
