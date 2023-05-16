@@ -10,9 +10,6 @@
 [submodule "MOOCs"]
 	path = MOOCs
 	url = git@github.com:mentor-OC-archist/MOOC___webdev.git
-[submodule "P5"]
-	path = P5
-	url = git@github.com:mentor-OC-archist/OC__frontend__P5.git
 [submodule "WORKOUTs"]
 	path = WORKOUTs
 	url = git@github.com:achicyr/OC___WORKOUTS___master.git
@@ -40,3 +37,6 @@
 [submodule "P4"]
 	path = P4
 	url = git@github.com:mentor-OC-archist/OC__frontend__P4.git
+[submodule "_/OC__frontend__P5___old_before_jan23"]
+	path = _/OC__frontend__P5___old_before_jan23
+	url = git@github.com:mentor-OC-archist/OC__frontend__P5___old_before_jan23.git
