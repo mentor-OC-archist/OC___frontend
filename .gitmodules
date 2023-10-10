@@ -40,3 +40,6 @@
 [submodule "_/OC__frontend__P5___old_before_jan23"]
 	path = _/OC__frontend__P5___old_before_jan23
 	url = git@github.com:mentor-OC-archist/OC__frontend__P5___old_before_jan23.git
+[submodule "P5"]
+	path = P5
+	url = git@github.com:mentor-OC-archist/OC__frontend__P5.git

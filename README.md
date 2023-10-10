@@ -21,3 +21,11 @@ MODÈLE:
 #### VIDÉO END => PRÉSENTER LES OUTILS UTILES DANS CE PROJET
 #### LISTER LES RESSOURCES PRÉSENTÉES ET NON PRÉSENTÉES DANS LA "VIDÉO END"
 ## ABORDER LES DIFFÉRENTS POINTS SENSIBLES AUXQUELS L'ÉLÈVE POURRA ÊTRE CONFRONTÉ AU COURS DE LA MISSION
+
+
+COPY/PASTE:
+https://marketplace.visualstudio.com/items?itemName=BishopCodes.vscode-pfw
+MARKDOWN:
+https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image*
+JSON:
+https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype
