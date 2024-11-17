@@ -43,3 +43,6 @@
 [submodule "P5"]
 	path = P5
 	url = git@github.com:mentor-OC-archist/OC__frontend__P5.git
+[submodule "P8"]
+	path = P8
+	url = git@github.com:mentor-OC-archist/OC__frontend__P8.git
